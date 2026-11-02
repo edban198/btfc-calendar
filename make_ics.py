@@ -19,7 +19,7 @@ import re
 import sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-DATA_DIR = os.path.join(HERE, "calendar/data")
+DATA_DIR = os.path.join(HERE, "data")
 OUT_FILE = os.path.join(DATA_DIR, "bradford_town.ics")
 
 CAL_NAME = "Bradford Town FC"

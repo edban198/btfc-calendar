@@ -1,0 +1,426 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//btfc-scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bradford Town FC
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:hlpd-cinderford-town-h@btfc-scraper
+DTSTAMP:20260101T000000Z
+DTSTART:20260801T140000Z
+DTEND:20260801T163000Z
+SUMMARY:Bradford Town 2-0 Cinderford Town (W)
+DESCRIPTION:Hellenic League Premier Division\nKick-off 15:00\nAttendan
+ ce: 228\nMatch sponsor: MELKSHAM MOTOR SPARES
+LOCATION:Bradford Town FC\, Trowbridge Road\, Bradford on Avon
+END:VEVENT
+BEGIN:VEVENT
+UID:hlpd-royal-wootton-bassett-town-a@btfc-scraper
+DTSTAMP:20260101T000000Z
+DTSTART:20260805T183000Z
+DTEND:20260805T210000Z
+SUMMARY:Royal Wootton Bassett Town 0-4 Bradford Town (W)
+DESCRIPTION:Hellenic League Premier Division\nKick-off 19:30\nAttendan
+ ce: 226
+END:VEVENT
+BEGIN:VEVENT
+UID:fac-ex-pre-milbrook-a@btfc-scraper
+DTSTAMP:20260101T000000Z
+DTSTART:20260808T140000Z
+DTEND:20260808T163000Z
+SUMMARY:Milbrook 2-0 Bradford Town (L)
+DESCRIPTION:FAC Ex Pre\nKick-off 15:00
+END:VEVENT
+BEGIN:VEVENT
+UID:fav-1q-highworth-town-a@btfc-scraper
+DTSTAMP:20260101T000000Z
+DTSTART:20260815T140000Z
+DTEND:20260815T163000Z
+SUMMARY:Highworth Town 1-0 Bradford Town (L)
+DESCRIPTION:FAV 1Q\nKick-off 15:00
+END:VEVENT
+BEGIN:VEVENT
+UID:hlpd-cirencester-town-h@btfc-scraper
+DTSTAMP:20260101T000000Z
+DTSTART:20260818T183000Z
+DTEND:20260818T210000Z
+SUMMARY:Bradford Town 0-2 Cirencester Town (L)
+DESCRIPTION:Hellenic League Premier Division\nKick-off 19:30\nAttendan
+ ce: 171\nMatch sponsor: MURRAY HOLDAWAY
+LOCATION:Bradford Town FC\, Trowbridge Road\, Bradford on Avon
+END:VEVENT
+BEGIN:VEVENT
+UID:hlpd-tuffley-rovers-h@btfc-scraper
+DTSTAMP:20260101T000000Z
+DTSTART:20260822T140000Z
+DTEND:20260822T163000Z
+SUMMARY:Bradford Town 0-2 Tuffley Rovers (L)
+DESCRIPTION:Hellenic League Premier Division\nKick-off 15:00\nAttendan
+ ce: 153
+LOCATION:Bradford Town FC\, Trowbridge Road\, Bradford on Avon
+END:VEVENT
+BEGIN:VEVENT
+UID:hlpd-malmesbury-town-a@btfc-scraper
+DTSTAMP:20260101T000000Z
+DTSTART:20260829T140000Z
+DTEND:20260829T163000Z
+SUMMARY:Malmesbury Town 4-2 Bradford Town (L)
+DESCRIPTION:Hellenic League Premier Division\nKick-off 15:00\nAttendan
+ ce: 83
+END:VEVENT
+BEGIN:VEVENT
+UID:hlpd-corsham-town-a@btfc-scraper
+DTSTAMP:20260101T000000Z
+DTSTART:20260831T140000Z
+DTEND:20260831T163000Z
+SUMMARY:Corsham Town 3-1 Bradford Town (L)
+DESCRIPTION:Hellenic League Premier Division\nKick-off 15:00\nAttendan
+ ce: 278
+END:VEVENT
+BEGIN:VEVENT
+UID:hlpd-stourport-swifts-h@btfc-scraper
+DTSTAMP:20260101T000000Z
+DTSTART:20260905T140000Z
+DTEND:20260905T163000Z
+SUMMARY:Bradford Town 0-4 Stourport Swifts (L)
+DESCRIPTION:Hellenic League Premier Division\nKick-off 15:00\nAttendan
+ ce: 154
+LOCATION:Bradford Town FC\, Trowbridge Road\, Bradford on Avon
+END:VEVENT
+BEGIN:VEVENT
+UID:hlpd-fairford-town-h@btfc-scraper
+DTSTAMP:20260101T000000Z
+DTSTART:20260912T140000Z
+DTEND:20260912T163000Z
+SUMMARY:Bradford Town 1-0 Fairford Town (W)
+DESCRIPTION:Hellenic League Premier Division\nKick-off 15:00\nAttendan
+ ce: 136\nMatch sponsor: SMARTMOVE REMOVALS
+LOCATION:Bradford Town FC\, Trowbridge Road\, Bradford on Avon
+END:VEVENT
+BEGIN:VEVENT
+UID:hlpd-roman-glass-st-george-a@btfc-scraper
+DTSTAMP:20260101T000000Z
+DTSTART:20260916T183000Z
+DTEND:20260916T210000Z
+SUMMARY:Roman Glass St George 3-1 Bradford Town (L)
+DESCRIPTION:Hellenic League Premier Division\nKick-off 19:30\nAttendan
+ ce: 70
+END:VEVENT
+BEGIN:VEVENT
+UID:hlpd-hereford-pegasus-a@btfc-scraper
+DTSTAMP:20260101T000000Z
+DTSTART:20260919T140000Z
+DTEND:20260919T163000Z
+SUMMARY:Hereford Pegasus 1-0 Bradford Town (L)
+DESCRIPTION:Hellenic League Premier Division\nKick-off 15:00\nAttendan
+ ce: 104
+END:VEVENT
+BEGIN:VEVENT
+UID:hlpd-cribbs-a@btfc-scraper
+DTSTAMP:20260101T000000Z
+DTSTART:20260923T183000Z
+DTEND:20260923T210000Z
+SUMMARY:Cribbs 1-2 Bradford Town (W)
+DESCRIPTION:Hellenic League Premier Division\nKick-off 19:30\nAttendan
+ ce: 86
+END:VEVENT
+BEGIN:VEVENT
+UID:hlpd-longlevens-a@btfc-scraper
+DTSTAMP:20260101T000000Z
+DTSTART:20260926T140000Z
+DTEND:20260926T163000Z
+SUMMARY:Longlevens 3-1 Bradford Town (L)
+DESCRIPTION:Hellenic League Premier Division\nKick-off 15:00\nAttendan
+ ce: 77
+END:VEVENT
+BEGIN:VEVENT
+UID:hlpd-westfields-h@btfc-scraper
+DTSTAMP:20260101T000000Z
+DTSTART:20261003T140000Z
+DTEND:20261003T163000Z
+SUMMARY:Bradford Town 2-3 Westfields (L)
+DESCRIPTION:Hellenic League Premier Division\nKick-off 15:00\nAttendan
+ ce: 136\nMatch sponsor: NATHANIEL DUVAL
+LOCATION:Bradford Town FC\, Trowbridge Road\, Bradford on Avon
+END:VEVENT
+BEGIN:VEVENT
+UID:hlpd-hallen-a@btfc-scraper
+DTSTAMP:20260101T000000Z
+DTSTART:20261010T140000Z
+DTEND:20261010T163000Z
+SUMMARY:Hallen 2-1 Bradford Town (L)
+DESCRIPTION:Hellenic League Premier Division\nKick-off 15:00\nAttendan
+ ce: 61
+END:VEVENT
+BEGIN:VEVENT
+UID:hlpd-droitwich-spa-h@btfc-scraper
+DTSTAMP:20260101T000000Z
+DTSTART:20261017T140000Z
+DTEND:20261017T163000Z
+SUMMARY:Bradford Town 1-2 Droitwich Spa (L)
+DESCRIPTION:Hellenic League Premier Division\nKick-off 15:00\nAttendan
+ ce: 184\nMatch sponsor: BTFC YOUTH U7s
+LOCATION:Bradford Town FC\, Trowbridge Road\, Bradford on Avon
+END:VEVENT
+BEGIN:VEVENT
+UID:hlpd-highworth-town-a@btfc-scraper
+DTSTAMP:20260101T000000Z
+DTSTART:20261024T140000Z
+DTEND:20261024T163000Z
+SUMMARY:Highworth Town 4-1 Bradford Town (L)
+DESCRIPTION:Hellenic League Premier Division\nKick-off 15:00
+END:VEVENT
+BEGIN:VEVENT
+UID:wps-chippenham-town-a@btfc-scraper
+DTSTAMP:20260101T000000Z
+DTSTART:20261027T193000Z
+DTEND:20261027T220000Z
+SUMMARY:POSTPONED: Chippenham Town v Bradford Town
+DESCRIPTION:Wiltshire Premier Shield\nKick-off 19:30
+END:VEVENT
+BEGIN:VEVENT
+UID:hlpd-cribbs-h@btfc-scraper
+DTSTAMP:20260101T000000Z
+DTSTART:20261031T150000Z
+DTEND:20261031T173000Z
+SUMMARY:Bradford Town 5-0 Cribbs (W)
+DESCRIPTION:Hellenic League Premier Division\nKick-off 15:00\nAttendan
+ ce: 119\nMatch sponsor: CHRIS CLARK
+LOCATION:Bradford Town FC\, Trowbridge Road\, Bradford on Avon
+END:VEVENT
+BEGIN:VEVENT
+UID:hfc-chipping-sodbury-town-h@btfc-scraper
+DTSTAMP:20260101T000000Z
+DTSTART:20261103T193000Z
+DTEND:20261103T220000Z
+SUMMARY:Bradford Town 0-1 Chipping Sodbury Town (L)
+DESCRIPTION:Hellenic Floodlit Cup\nKick-off 19:30\nAttendance: 64
+LOCATION:Bradford Town FC\, Trowbridge Road\, Bradford on Avon
+END:VEVENT
+BEGIN:VEVENT
+UID:hcc-3rd-hereford-pegasus-a@btfc-scraper
+DTSTAMP:20260101T000000Z
+DTSTART:20261107T150000Z
+DTEND:20261107T173000Z
+SUMMARY:Hereford Pegasus 0-2 Bradford Town (W)
+DESCRIPTION:HCC 3rd\nKick-off 15:00\nAttendance: 134
+END:VEVENT
+BEGIN:VEVENT
+UID:hlpd-corsham-town-h@btfc-scraper
+DTSTAMP:20260101T000000Z
+DTSTART:20261110T193000Z
+DTEND:20261110T220000Z
+SUMMARY:Bradford Town 2-1 Corsham Town (W)
+DESCRIPTION:Hellenic League Premier Division\nKick-off 19:30\nAttendan
+ ce: 181\nMatch sponsor: STEVE HALL
+LOCATION:Bradford Town FC\, Trowbridge Road\, Bradford on Avon
+END:VEVENT
+BEGIN:VEVENT
+UID:hlpd-pershore-town-a@btfc-scraper
+DTSTAMP:20260101T000000Z
+DTSTART:20261114T150000Z
+DTEND:20261114T173000Z
+SUMMARY:Pershore Town v Bradford Town
+DESCRIPTION:Hellenic League Premier Division\nKick-off 15:00
+END:VEVENT
+BEGIN:VEVENT
+UID:hlpd-stourport-swifts-a@btfc-scraper
+DTSTAMP:20260101T000000Z
+DTSTART:20261121T150000Z
+DTEND:20261121T173000Z
+SUMMARY:Stourport Swifts v Bradford Town
+DESCRIPTION:Hellenic League Premier Division\nKick-off 15:00
+END:VEVENT
+BEGIN:VEVENT
+UID:hlpd-thornbury-town-h@btfc-scraper
+DTSTAMP:20260101T000000Z
+DTSTART:20261128T150000Z
+DTEND:20261128T173000Z
+SUMMARY:Bradford Town v Thornbury Town
+DESCRIPTION:Hellenic League Premier Division\nKick-off 15:00\nMatch sp
+ onsor: OLD TIMERS
+LOCATION:Bradford Town FC\, Trowbridge Road\, Bradford on Avon
+END:VEVENT
+BEGIN:VEVENT
+UID:wps-chippenham-town-a@btfc-scraper
+DTSTAMP:20260101T000000Z
+DTSTART:20261201T193000Z
+DTEND:20261201T220000Z
+SUMMARY:Chippenham Town v Bradford Town
+DESCRIPTION:Wiltshire Premier Shield\nKick-off 19:30
+END:VEVENT
+BEGIN:VEVENT
+UID:hcc-4th-alcester-town-h@btfc-scraper
+DTSTAMP:20260101T000000Z
+DTSTART:20261205T150000Z
+DTEND:20261205T173000Z
+SUMMARY:Bradford Town v Alcester Town
+DESCRIPTION:HCC 4th\nKick-off 15:00
+LOCATION:Bradford Town FC\, Trowbridge Road\, Bradford on Avon
+END:VEVENT
+BEGIN:VEVENT
+UID:hlpd-tuffley-rovers-a@btfc-scraper
+DTSTAMP:20260101T000000Z
+DTSTART:20261212T150000Z
+DTEND:20261212T173000Z
+SUMMARY:Tuffley Rovers v Bradford Town
+DESCRIPTION:Hellenic League Premier Division\nKick-off 15:00
+END:VEVENT
+BEGIN:VEVENT
+UID:hlpd-malmesbury-victoria-h@btfc-scraper
+DTSTAMP:20260101T000000Z
+DTSTART:20261219T150000Z
+DTEND:20261219T173000Z
+SUMMARY:Bradford Town v Malmesbury Victoria
+DESCRIPTION:Hellenic League Premier Division\nKick-off 15:00
+LOCATION:Bradford Town FC\, Trowbridge Road\, Bradford on Avon
+END:VEVENT
+BEGIN:VEVENT
+UID:hlpd-devizes-town-h@btfc-scraper
+DTSTAMP:20260101T000000Z
+DTSTART:20261226T150000Z
+DTEND:20261226T173000Z
+SUMMARY:Bradford Town v Devizes Town
+DESCRIPTION:Hellenic League Premier Division\nKick-off 15:00
+LOCATION:Bradford Town FC\, Trowbridge Road\, Bradford on Avon
+END:VEVENT
+BEGIN:VEVENT
+UID:hlpd-hereford-pegasus-h@btfc-scraper
+DTSTAMP:20260101T000000Z
+DTSTART:20270102T150000Z
+DTEND:20270102T173000Z
+SUMMARY:Bradford Town v Hereford Pegasus
+DESCRIPTION:Hellenic League Premier Division\nKick-off 15:00
+LOCATION:Bradford Town FC\, Trowbridge Road\, Bradford on Avon
+END:VEVENT
+BEGIN:VEVENT
+UID:hlpd-droitwich-spa-a@btfc-scraper
+DTSTAMP:20260101T000000Z
+DTSTART:20270109T150000Z
+DTEND:20270109T173000Z
+SUMMARY:Droitwich Spa v Bradford Town
+DESCRIPTION:Hellenic League Premier Division\nKick-off 15:00
+END:VEVENT
+BEGIN:VEVENT
+UID:hlpd-pershore-town-h@btfc-scraper
+DTSTAMP:20260101T000000Z
+DTSTART:20270116T150000Z
+DTEND:20270116T173000Z
+SUMMARY:Bradford Town v Pershore Town
+DESCRIPTION:Hellenic League Premier Division\nKick-off 15:00
+LOCATION:Bradford Town FC\, Trowbridge Road\, Bradford on Avon
+END:VEVENT
+BEGIN:VEVENT
+UID:hlpd-cinderford-town-a@btfc-scraper
+DTSTAMP:20260101T000000Z
+DTSTART:20270123T150000Z
+DTEND:20270123T173000Z
+SUMMARY:Cinderford Town v Bradford Town
+DESCRIPTION:Hellenic League Premier Division\nKick-off 15:00
+END:VEVENT
+BEGIN:VEVENT
+UID:hlpd-mangotsfield-united-h@btfc-scraper
+DTSTAMP:20260101T000000Z
+DTSTART:20270130T150000Z
+DTEND:20270130T173000Z
+SUMMARY:Bradford Town v Mangotsfield United
+DESCRIPTION:Hellenic League Premier Division\nKick-off 15:00
+LOCATION:Bradford Town FC\, Trowbridge Road\, Bradford on Avon
+END:VEVENT
+BEGIN:VEVENT
+UID:hlpd-highworth-town-h@btfc-scraper
+DTSTAMP:20260101T000000Z
+DTSTART:20270206T150000Z
+DTEND:20270206T173000Z
+SUMMARY:Bradford Town v Highworth Town
+DESCRIPTION:Hellenic League Premier Division\nKick-off 15:00
+LOCATION:Bradford Town FC\, Trowbridge Road\, Bradford on Avon
+END:VEVENT
+BEGIN:VEVENT
+UID:hlpd-royal-wootton-bassett-town-h@btfc-scraper
+DTSTAMP:20260101T000000Z
+DTSTART:20270213T150000Z
+DTEND:20270213T173000Z
+SUMMARY:Bradford Town v Royal Wootton Bassett Town
+DESCRIPTION:Hellenic League Premier Division\nKick-off 15:00
+LOCATION:Bradford Town FC\, Trowbridge Road\, Bradford on Avon
+END:VEVENT
+BEGIN:VEVENT
+UID:hlpd-mangotsfield-united-a@btfc-scraper
+DTSTAMP:20260101T000000Z
+DTSTART:20270220T150000Z
+DTEND:20270220T173000Z
+SUMMARY:Mangotsfield United v Bradford Town
+DESCRIPTION:Hellenic League Premier Division\nKick-off 15:00
+END:VEVENT
+BEGIN:VEVENT
+UID:hlpd-fairford-town-a@btfc-scraper
+DTSTAMP:20260101T000000Z
+DTSTART:20270227T150000Z
+DTEND:20270227T173000Z
+SUMMARY:Fairford Town v Bradford Town
+DESCRIPTION:Hellenic League Premier Division\nKick-off 15:00
+END:VEVENT
+BEGIN:VEVENT
+UID:hlpd-cirencester-town-a@btfc-scraper
+DTSTAMP:20260101T000000Z
+DTSTART:20270306T150000Z
+DTEND:20270306T173000Z
+SUMMARY:Cirencester Town v Bradford Town
+DESCRIPTION:Hellenic League Premier Division\nKick-off 15:00
+END:VEVENT
+BEGIN:VEVENT
+UID:hlpd-westfields-a@btfc-scraper
+DTSTAMP:20260101T000000Z
+DTSTART:20270313T150000Z
+DTEND:20270313T173000Z
+SUMMARY:Westfields v Bradford Town
+DESCRIPTION:Hellenic League Premier Division\nKick-off 15:00
+END:VEVENT
+BEGIN:VEVENT
+UID:hlpd-devizes-town-a@btfc-scraper
+DTSTAMP:20260101T000000Z
+DTSTART:20270329T140000Z
+DTEND:20270329T163000Z
+SUMMARY:Devizes Town v Bradford Town
+DESCRIPTION:Hellenic League Premier Division\nKick-off 15:00
+END:VEVENT
+BEGIN:VEVENT
+UID:hlpd-hallen-h@btfc-scraper
+DTSTAMP:20260101T000000Z
+DTSTART:20270403T140000Z
+DTEND:20270403T163000Z
+SUMMARY:Bradford Town v Hallen
+DESCRIPTION:Hellenic League Premier Division\nKick-off 15:00
+LOCATION:Bradford Town FC\, Trowbridge Road\, Bradford on Avon
+END:VEVENT
+BEGIN:VEVENT
+UID:hlpd-roman-glass-st-george-h@btfc-scraper
+DTSTAMP:20260101T000000Z
+DTSTART:20270410T140000Z
+DTEND:20270410T163000Z
+SUMMARY:Bradford Town v Roman Glass St George
+DESCRIPTION:Hellenic League Premier Division\nKick-off 15:00
+LOCATION:Bradford Town FC\, Trowbridge Road\, Bradford on Avon
+END:VEVENT
+BEGIN:VEVENT
+UID:hlpd-longlevens-h@btfc-scraper
+DTSTAMP:20260101T000000Z
+DTSTART:20270417T140000Z
+DTEND:20270417T163000Z
+SUMMARY:Bradford Town v Longlevens
+DESCRIPTION:Hellenic League Premier Division\nKick-off 15:00
+LOCATION:Bradford Town FC\, Trowbridge Road\, Bradford on Avon
+END:VEVENT
+BEGIN:VEVENT
+UID:hlpd-thornbury-town-a@btfc-scraper
+DTSTAMP:20260101T000000Z
+DTSTART:20270424T140000Z
+DTEND:20270424T163000Z
+SUMMARY:Thornbury Town v Bradford Town
+DESCRIPTION:Hellenic League Premier Division\nKick-off 15:00
+END:VEVENT
+END:VCALENDAR
