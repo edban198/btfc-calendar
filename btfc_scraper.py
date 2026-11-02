@@ -27,7 +27,7 @@ FIXTURES_URL = "https://bradfordtownfc.com/fixtures-results-2026-27/"
 LEAGUE_URL = "https://bradfordtownfc.com/league-table/"
 SEASON_START_YEAR = 2026          # season 2026/27 -> Aug-Dec 2026, Jan-Apr 2027
 OUTPUT_FORMAT = "csv"          # "csv" or "json"
-OUTPUT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "calendar/data")
+OUTPUT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data")
 TIMEOUT = 30
 USER_AGENT = "Mozilla/5.0 (compatible; BTFC-personal-scraper/1.0)"
 # --------------------------------------------------------------------------
